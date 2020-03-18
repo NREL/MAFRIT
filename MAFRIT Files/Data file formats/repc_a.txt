@@ -1,0 +1,2 @@
+% mvab,tfltr,kp,ki,tft,tfv,refflg,vfrz,rc,xc,kc,vcmpflg,emax,emin,dbd,qmax,qmin,kpg,kig,tp,fdbd1,fdbd2,femax,femin,pmax,pmin,tlag,ddn,dup,frqflg
+% enter actual values here in the same order as above. Remove the "%" sign as it is used to mark a commented line

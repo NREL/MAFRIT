@@ -1,0 +1,3 @@
+% GENROU Generator Parameters 
+% Rating,T'do,T''do,T'qo,T''qo,H,D,Xd,Xq,X'd,X'q,X''d,X''q,X1,S1,S1.2,Ra,Rcomp,Xcomp 
+% enter actual values here in the same order as above. Remove the "%" sign as it is used to mark a commented line

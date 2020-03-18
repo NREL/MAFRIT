@@ -1,0 +1,2 @@
+% mvab,tfltr,lvpl1,zerox,brkpt,lvplsw,rrpwr,tg,volim,iolim,khv,ivpnt0,ivpnt1,iqrmax,iqrmin,xd11
+% enter actual values here in the same order as above. Remove the "%" sign as it is used to mark a commented line

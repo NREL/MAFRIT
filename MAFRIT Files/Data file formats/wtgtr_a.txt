@@ -1,0 +1,2 @@
+% mvab,ht,hg,dshaft,kshaft,ka,theta0,w0
+% enter actual values here in the same order as above. Remove the "%" sign as it is used to mark a commented line

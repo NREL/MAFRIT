@@ -1,0 +1,3 @@
+% mwcap,r,Rselect,Tpelec,Maxerr,Minerr,Kpgov,Kigov,Kdgov,Tdgov,Vmax,Vmin,Tact,Kturb,wfnl,Tb,Tc,Flag,Teng,Tfload,Kpload,Kiload,Ldref,Dm,ropen,rclose,Kimw,Pmwset,aset,Ka,Ta,Db,Tsa,Tsb,Rup,Rdown
+% enter actual values here in the same order as above. Remove the "%" sign as it is used to mark a commented line
+

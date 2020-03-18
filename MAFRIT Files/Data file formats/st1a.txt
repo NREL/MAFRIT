@@ -1,0 +1,2 @@
+% Tr, Vimax, Vimin, Tc,Tb, Ka, Ta, Vrmax, Vrmin, Kc, Kf, Tf, Tc1, Tb1, Vamax, Vamin, Ilr, Klr
+% enter actual values here in the same order as above. Remove the "%" sign as it is used to mark a commented line

@@ -1,0 +1,2 @@
+% mvab,kip,kpp,tp,twref,temax,temin,p1,spd1,p2,spd2,p3,spd3,p4,spd4,tflag
+% enter actual values here in the same order as above. Remove the "%" sign as it is used to mark a commented line

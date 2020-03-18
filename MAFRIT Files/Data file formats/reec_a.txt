@@ -1,0 +1,2 @@
+% mvab,vdip,vup,trv,dbd1,dbd2,kqv,iqhl,iqll,iqfrz,thld,thld2,tp,qmax,qmin,vmax,vmin,kqp,kqi,kvp,kvi,vref1,tiq,dpmax,dpmin,pmax,pmin,imax,tpord,pfflag,vflag,qflag,pflag,pqflag,vq1,iq1,vq2,iq2,vq3,iq3,vq4,iq4,vp1,ip1,vp2,ip2,vp3,ip3,vp4,ip4
+% enter actual values here in the same order as above. Remove the "%" sign as it is used to mark a commented line

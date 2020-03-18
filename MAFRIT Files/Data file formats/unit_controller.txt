@@ -1,0 +1,2 @@
+% allocation factor, max rate of change, min rate of change, kpref
+% enter actual values here in the same order as above. Remove the "%" sign as it is used to mark a commented line

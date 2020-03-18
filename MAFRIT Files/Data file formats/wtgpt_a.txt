@@ -1,0 +1,2 @@
+% mvab,kiw,kpw,kic,kpc,kcc,tpi,pimax,pimin,piratmax,piratmin
+% enter actual values here in the same order as above. Remove the "%" sign as it is used to mark a commented line
